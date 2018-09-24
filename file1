@@ -1,4 +1,9 @@
 sample text
+<<<<<<< HEAD
 new text added
 
 new line added
+=======
+name:
+asas
+>>>>>>> dev
